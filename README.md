@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chen690764865
+- 👀 I’m interested in Objective-C and Swift.
+- 🌱 I’m currently learning SwiftUI.
+- 📫 How to reach me: 690764865@qq.com
